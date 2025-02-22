@@ -22,7 +22,7 @@ jobs:
 
       - name: Filter c8-dm.m3u8 content
         run: |
-          sed -n '/#EXT-X-STREAM-INF:RESOLUTION=1920x1080,FRAME-RATE=50.000000,BANDWIDTH=7811072/,/m3u8/p' input.m3u8 > output.m3u8 > c8-dm_1080.m3u8
+          sed -n '/#EXT-X-STREAM-INF:RESOLUTION=1920x1080,FRAME-RATE=50.000000,BANDWIDTH=7811072/,/m3u8/p' c8-dm.m3u8 > c8-dm_1080.m3u8
 
       - name: Check for changes and commit if needed
         run: |
@@ -33,6 +33,6 @@ jobs:
             echo "Aucun changement détecté, pas de commit."
             exit 0
           else
-            git commit -m "Auto sync and filter tf1.m3u8"
+            git commit -m "Auto sync and filter c8-dm.m3u8"
             git push origin main
           fi
