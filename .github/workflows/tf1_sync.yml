@@ -24,10 +24,6 @@ jobs:
         run: |
           sed -n '
             /^#EXTM3U/p
-            /^#EXT-X-VERSION:/ {
-              s/.*/#EXT-X-VERSION:3/
-              p
-            }
             /^#EXT-X-STREAM-INF:.*BANDWIDTH=3192758,/ {
               p
               n
