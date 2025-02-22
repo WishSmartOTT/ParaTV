@@ -35,11 +35,11 @@ jobs:
       - name: Clone target repository (TNT_TV)
         run: |
           git clone https://github.com/WishSmartOTT/TNT_TV.git tnt_tv_repo
-          mkdir -p tnt_tv_repo/Streams/France/FHD
+          mkdir -p tnt_tv_repo/Streams/France/HD
 
       - name: Copy filtered file to target repository
         run: |
-          cp tf1_720.m3u8 tnt_tv_repo/Streams/France/FHD/tf1_720.m3u8
+          cp tf1_720.m3u8 tnt_tv_repo/Streams/France/HD/tf1_720.m3u8
 
       - name: Commit and push changes to TNT_TV
         run: |
