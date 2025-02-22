@@ -36,16 +36,15 @@ jobs:
             /^#EXT-X-MEDIA:TYPE=AUDIO.*fra/p
           ' tf1.m3u8 > tf1_720.m3u8
 
-      - name: Commit filtered file if changed
+      - name: Check for changes and commit if needed
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add tf1_720.m3u8
-
+          git add tf1_filtered.m3u8
           if git diff --cached --quiet; then
-            echo "Aucun changement détecté"
+            echo "Aucun changement détecté, pas de commit."
             exit 0
           else
-            git commit -m "Sync and filter tf1_720.m3u8"
+            git commit -m "Auto sync and filter tf1.m3u8"
             git push origin main
           fi
