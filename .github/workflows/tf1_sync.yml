@@ -34,12 +34,6 @@ jobs:
             /^#EXT-X-MEDIA:TYPE=AUDIO.*fra/p
           ' tf1.m3u8 > tf1_720.m3u8
 
-      - name: Debug filtered content (optional)
-        run: |
-          echo "===== Debug: tf1_720.m3u8 ====="
-          cat tf1_720.m3u8
-          echo "================================"
-
       - name: Commit filtered file if changed
         run: |
           git config --global user.name "github-actions"
