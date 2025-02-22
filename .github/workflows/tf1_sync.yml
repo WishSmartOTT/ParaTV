@@ -24,7 +24,17 @@ jobs:
 
       - name: Filter tf1.m3u8 content
         run: |
-          sed -n '/^#EXTM3U/p;/^#EXT-X-STREAM-INF:BANDWIDTH=3192758/p;N;p;/^#EXT-X-MEDIA:TYPE=AUDIO.*fra/p' tf1.m3u8 > tf1_720.m3u8
+          sed -n '
+            /^#EXTM3U/p
+            /^#EXT-X-VERSION/p
+            /^#EXT-X-INDEPENDENT-SEGMENTS/p
+            /^#EXT-X-STREAM-INF:.*BANDWIDTH=3192758,/ {
+              p
+              n
+              p
+            }
+            /^#EXT-X-MEDIA:TYPE=AUDIO.*fra/p
+          ' tf1.m3u8 > tf1_720.m3u8
 
       - name: Commit filtered file if changed
         run: |
@@ -38,3 +48,4 @@ jobs:
           else
             git commit -m "Sync and filter tf1.m3u8 -> tf1_720.m3u8"
             git push origin main
+          fi
