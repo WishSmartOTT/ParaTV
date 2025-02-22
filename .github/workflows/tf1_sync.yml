@@ -1,9 +1,12 @@
-name: Sync and filter tf1.m3u8 if changed
+name: Sync and filter tf1.m3u8
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # Vérifie toutes les heures
+    - cron: '*/5 * * * *'  # Exécution toutes les 5 minutes
   workflow_dispatch:
+
+permissions:
+  contents: write  # Permet au workflow de pousser les modifications dans le dépôt
 
 jobs:
   sync-filter:
@@ -12,6 +15,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Download original tf1.m3u8
         run: |
@@ -19,9 +24,20 @@ jobs:
 
       - name: Filter tf1.m3u8 content
         run: |
-          sed -n '/^#EXTM3U/p;/^#EXT-X-STREAM-INF:BANDWIDTH=3192758/p;N;p;/^#EXT-X-MEDIA:TYPE=AUDIO.*fra/p' tf1.m3u8 > tf1_720.m3u8
+          sed -n '
+            /^#EXTM3U/p
+            /^#EXT-X-STREAM-INF:.*BANDWIDTH=3192758,/ {
+              p
+              n
+              p
+            }
+            /^#EXT-X-MEDIA:TYPE=AUDIO.*fra/p
+          ' tf1.m3u8 > tf1_720.m3u8
 
-      - name: Check for changes and commit if needed
+      - name: Debug filtered content (optional)
+        run: cat tf1_720.m3u8
+
+      - name: Commit filtered file if changed
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
@@ -30,6 +46,5 @@ jobs:
             echo "Aucun changement détecté, pas de commit."
             exit 0
           else
-            git commit -m "Auto sync and filter tf1.m3u8"
+            git commit -m "Sync and filter tf1.m3u8 -> tf1_720.m3u8"
             git push origin main
-          fi
