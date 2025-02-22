@@ -1,0 +1,35 @@
+name: Sync and filter tf1.m3u8 if changed
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'  # Vérifie toutes les heures
+  workflow_dispatch:
+
+jobs:
+  sync-filter:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download original tf1.m3u8
+        run: |
+          curl -o tf1.m3u8 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
+
+      - name: Filter tf1.m3u8 content
+        run: |
+          sed -n '/^#EXTM3U/p;/^#EXT-X-STREAM-INF:BANDWIDTH=3192758/p;N;p;/^#EXT-X-MEDIA:TYPE=AUDIO.*fra/p' tf1.m3u8 > tf1_720.m3u8
+
+      - name: Check for changes and commit if needed
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add tf1_filtered.m3u8
+          if git diff --cached --quiet; then
+            echo "Aucun changement détecté, pas de commit."
+            exit 0
+          else
+            git commit -m "Auto sync and filter tf1.m3u8"
+            git push origin main
+          fi
