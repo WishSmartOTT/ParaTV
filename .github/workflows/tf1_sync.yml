@@ -43,9 +43,9 @@ jobs:
           git add tf1_720.m3u8
 
           if git diff --cached --quiet; then
-            echo "Aucun changement détecté, pas de commit."
+            echo "Aucun changement détecté"
             exit 0
           else
-            git commit -m "Sync and filter tf1.m3u8 -> tf1_720.m3u8"
+            git commit -m "Sync and filter tf1_720.m3u8"
             git push origin main
           fi
