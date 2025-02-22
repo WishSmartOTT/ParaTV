@@ -1,4 +1,4 @@
-name: Sync and filter c8-dm.m3u8
+name: c8-dm_1080p.m3u8
 
 on:
   schedule:
