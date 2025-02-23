@@ -24,7 +24,7 @@ jobs:
         run: |
           sed -n '
             /^#EXTM3U/p
-            /^#EXT-X-STREAM-INF:RESOLUTION=1920x1080,/ {
+            /^#EXTINF:-1 tvg-id="".*/ {
               p
               n
               p
