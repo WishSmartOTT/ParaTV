@@ -17,14 +17,14 @@ jobs:
 
       - name: Run cnews_1080p_sync
         run: |
-          gh workflow run cnews_1080p_sync.yml --repo WishSmartOTT/ParaTV --ref main
+          gh workflow run /1080p_sync/cnews_1080p_sync.yml --repo WishSmartOTT/ParaTV --ref main
         working-directory: .github/workflows/1080p_sync
         env:
           GH_TOKEN: ${{ secrets.TNT_TV_TOKEN }}
 
       - name: Run cnews_bck_1080p_sync
         run: |
-          gh workflow run cnews_bck_1080p_sync.yml --repo WishSmartOTT/ParaTV --ref main
+          gh workflow run /1080p_sync/cnews_bck_1080p_sync.yml --repo WishSmartOTT/ParaTV --ref main
         working-directory: .github/workflows/1080p_sync
         env:
           GH_TOKEN: ${{ secrets.TNT_TV_TOKEN }}
