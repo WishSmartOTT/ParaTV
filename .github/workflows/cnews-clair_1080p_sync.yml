@@ -22,18 +22,25 @@ jobs:
 
       - name: Filter cnews-clair.m3u8 content
         run: |
-          sed -n '1p; /#EXT-X-STREAM-INF:RESOLUTION=1920x1080/ {N; s/\(https[^ ]*\.m3u8\).*/\1/p}' cnews-clair.m3u8 > cnews-clair_test.m3u8
-          sed -n '1p; 4p; 5p' cnews-clair_test.m3u8 > cnews-clair_1080.m3u8
+          sed -n '
+            /^#EXTM3U/p
+            /^#EXT-X-STREAM-INF:.*BANDWIDTH=5364655,/ {
+              p
+              n
+              p
+            }
+            /^#EXT-X-MEDIA:TYPE=AUDIO,.*GROUP-ID="audio-AACL-96",LANGUAGE="fra",NAME="vf"/p
+          ' cnews-clair.m3u8 > cnews-clair_1080.m3u8
 
       - name: Clone target repository (TNT_TV)
         run: |
           git clone https://github.com/WishSmartOTT/TNT_TV.git tnt_tv_repo
           mkdir -p tnt_tv_repo/Streams/France/FHD
-
+  
       - name: Copy filtered file to target repository
         run: |
           cp cnews-clair_1080.m3u8 tnt_tv_repo/Streams/France/FHD/cnews-clair_1080.m3u8
-
+  
       - name: Commit and push changes to TNT_TV
         run: |
           cd tnt_tv_repo
