@@ -1,4 +1,4 @@
-name: tf1_720p.m3u8
+name: tf1_bck_720p.m3u8
 
 on:
   schedule:
@@ -24,13 +24,13 @@ jobs:
         run: |
           sed -n '
             /^#EXTM3U/p
-            /^#EXT-X-STREAM-INF:.*BANDWIDTH=2207158,/ {
+            /^#EXT-X-STREAM-INF:.*BANDWIDTH=1591189,/ {
               p
               n
               p
             }
             /^#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="fra"/p
-          ' tf1.m3u8 > tf1_720.m3u8
+          ' tf1.m3u8 > tf1_bck_720.m3u8
 
       - name: Clone target repository (TNT_TV)
         run: |
@@ -39,14 +39,14 @@ jobs:
 
       - name: Copy filtered file to target repository
         run: |
-          cp tf1_720.m3u8 tnt_tv_repo/Streams/France/HD/tf1_720.m3u8
+          cp tf1_bck_720.m3u8 tnt_tv_repo/Streams/France/HD/tf1_bck_720.m3u8
 
       - name: Commit and push changes to TNT_TV
         run: |
           cd tnt_tv_repo
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add Streams/France/HD/tf1_720.m3u8
+          git add Streams/France/HD/tf1_bck_720.m3u8
           if git diff --cached --quiet; then
             echo "Aucun changement détecté, pas de commit."
             exit 0
