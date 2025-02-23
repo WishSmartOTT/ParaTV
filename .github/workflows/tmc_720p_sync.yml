@@ -24,12 +24,12 @@ jobs:
         run: |
           sed -n '
             /^#EXTM3U/p
-            /^#EXT-X-STREAM-INF:.*BANDWIDTH=3192758,/ {
+            /^#EXT-X-STREAM-INF:.*BANDWIDTH=3192675,/ {
               p
               n
               p
             }
-            /^#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="fra"/p
+            /^#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="français"/p
           ' tmc.m3u8 > tmc_720.m3u8
 
       - name: Clone target repository (TNT_TV)
