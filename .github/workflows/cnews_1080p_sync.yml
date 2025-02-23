@@ -24,7 +24,7 @@ jobs:
         run: |
           sed -n '
             /^#EXTM3U/p
-            /^GROUP-ID="audio-AACL-96",LANGUAGE="fra",NAME="vf"/p
+            /^#EXT-X-MEDIA:TYPE=AUDIO,.*GROUP-ID="audio-AACL-96",LANGUAGE="fra",NAME="vf"/p
             /^#EXT-X-STREAM-INF:BANDWIDTH=5364655,AVERAGE-BANDWIDTH=4876959,/ {
               p
               n
