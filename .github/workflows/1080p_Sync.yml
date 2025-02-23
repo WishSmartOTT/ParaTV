@@ -19,12 +19,12 @@ jobs:
         run: |
           gh workflow run cnews_1080p_sync.yml
         working-directory: .github/workflows/1080p_sync
-        # env:
-        #   GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GH_TOKEN: ${{ secrets.TNT_TV_TOKEN }}
 
       - name: Run cnews_bck_1080p_sync
         run: |
           gh workflow run cnews_bck_1080p_sync.yml
         working-directory: .github/workflows/1080p_sync
-        # env:
-        #   GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GH_TOKEN: ${{ secrets.TNT_TV_TOKEN }}
