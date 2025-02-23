@@ -35,18 +35,18 @@ jobs:
       - name: Clone target repository (TNT_TV)
         run: |
           git clone https://github.com/WishSmartOTT/TNT_TV.git tnt_tv_repo
-          mkdir -p tnt_tv_repo/Streams/France/HD
+          mkdir -p tnt_tv_repo/Streams/France/FHD
 
       - name: Copy filtered file to target repository
         run: |
-          cp tf1_1080.m3u8 tnt_tv_repo/Streams/France/HD/tf1_1080.m3u8
+          cp tf1_1080.m3u8 tnt_tv_repo/Streams/France/FHD/tf1_1080.m3u8
 
       - name: Commit and push changes to TNT_TV
         run: |
           cd tnt_tv_repo
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add Streams/France/HD/tf1_1080.m3u8
+          git add Streams/France/FHD/tf1_1080.m3u8
           if git diff --cached --quiet; then
             echo "Aucun changement détecté, pas de commit."
             exit 0
