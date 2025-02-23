@@ -1,0 +1,30 @@
+name: 1080p_Sync
+
+on:
+  push:
+    branches:
+      - main  # Change si ta branche est différente
+  schedule:
+    - cron: "*/5 * * * *"  # Exécution toutes les 5 minutes
+  workflow_dispatch:  # Permet l'exécution manuelle
+
+jobs:
+  trigger-1080p-sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Run cnews_1080p_sync
+        run: |
+          gh workflow run cnews_1080p_sync.yml
+        working-directory: .github/workflows/1080p_sync
+        # env:
+        #   GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Run cnews_bck_1080p_sync
+        run: |
+          gh workflow run cnews_bck_1080p_sync.yml
+        working-directory: .github/workflows/1080p_sync
+        # env:
+        #   GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
