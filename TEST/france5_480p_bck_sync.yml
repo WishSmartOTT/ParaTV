@@ -1,0 +1,56 @@
+name: france5_bck_480p.m3u8
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'  # Exécution toutes les 5 minutes
+  workflow_dispatch:
+
+permissions:
+  contents: write  # Permet au workflow de pousser les modifications dans le dépôt
+
+jobs:
+  sync-filter:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download original france5.m3u8
+        run: |
+          curl -o france5.m3u8 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france5.m3u8
+
+      - name: Filter france5.m3u8 content
+        run: |
+          sed -n '
+            /^#EXTM3U/p
+            /^#EXT-X-STREAM-INF:.*BANDWIDTH=1225356,/ {
+              p
+              n
+              p
+            }
+            /^#EXT-X-MEDIA:TYPE=AUDIO,.*GROUP-ID="audio-AACL-96",LANGUAGE="fr",NAME="Francais"/p
+          ' france5.m3u8 > france5_bck_480.m3u8
+
+      - name: Clone target repository (TNT_TV)
+        run: |
+          git clone https://github.com/WishSmartOTT/TNT_TV.git tnt_tv_repo
+          mkdir -p tnt_tv_repo/Streams/France/SD
+  
+      - name: Copy filtered file to target repository
+        run: |
+          cp france5_bck_480.m3u8 tnt_tv_repo/Streams/France/SD/france5_bck_480.m3u8
+  
+      - name: Commit and push changes to TNT_TV
+        run: |
+          cd tnt_tv_repo
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add Streams/France/SD/france5_bck_480.m3u8
+          if git diff --cached --quiet; then
+            echo "Aucun changement détecté, pas de commit."
+            exit 0
+          else
+            git commit -m "Auto sync and filter france5_bck_480.m3u8"
+            git push https://x-access-token:${{ secrets.TNT_TV_TOKEN }}@github.com/WishSmartOTT/TNT_TV.git main
+          fi
