@@ -114,7 +114,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/f
 #EXTINF:-1 tvg-chno="131" tvg-logo="https://i.imgur.com/SdwDJct.png" tvg-country="FR" group-title="FRANCE.TV" tvg-id="France3Bretagne.fr" tvg-name="France 3 - Bretagne",France 3 - Bretagne
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-bretagne-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="132" tvg-logo="https://i.imgur.com/SdwDJct.png" tvg-country="FR" group-title="FRANCE.TV",FRANCE 3 CENTRE-VAL DE LOIRE
+#EXTINF:-1 tvg-chno="132" tvg-logo="https://i.imgur.com/SdwDJct.png" tvg-country="FR" group-title="FRANCE.TV" tvg-id="France3Centre.fr" tvg-name="France 3 - Centre",France 3 - Centre
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-centre-val-de-loire-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="133" tvg-logo="https://i.imgur.com/SdwDJct.png" tvg-country="FR" group-title="FRANCE.TV" tvg-id="France3ChampagneArdenne.fr" tvg-name="France 3 - Champagne-Ardenne",France 3 - Champagne-Ardenne
