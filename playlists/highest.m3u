@@ -75,10 +75,10 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/s
 #EXTINF:-1 tvg-chno="117" tvg-logo="https://i.imgur.com/IeiMuGI.png" tvg-country="FR" group-title="FRANCE.TV",FRANCE TV SPORT
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/sport-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="119" tvg-id="France24.fr" tvg-logo="https://i.imgur.com/yAiTedt.png" tvg-country="FR" group-title="FRANCE.TV",FRANCE 24
+#EXTINF:-1 tvg-chno="119" tvg-id="France24.fr" tvg-logo="https://i.imgur.com/yAiTedt.png" tvg-country="FR" group-title="FRANCE.TV" tvg-name="France 24",France 24
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-24-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="120" tvg-logo="https://i.imgur.com/pPpiZiQ.png" tvg-country="FR" group-title="FRANCE.TV",INA
+#EXTINF:-1 tvg-chno="120" tvg-logo="https://i.imgur.com/pPpiZiQ.png" tvg-country="FR" group-title="FRANCE.TV" tvg-id="INA70s.fr" tvg-name="INA",INA
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/ina-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="121" tvg-id="LaChaineParlementaire.fr" tvg-logo="https://i.imgur.com/oGNOOkO.png" tvg-country="FR" group-title="FRANCE.TV",LCP - PUBLIC SÉNAT
