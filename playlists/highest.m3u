@@ -7,23 +7,23 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/dkP7tZf8xe4S/r
 #EXTINF:-1 tvg-chno="2" tvg-id="France2.fr" epg-s="4" tvg-logo="https://i.imgur.com/EbEL7U8.png" tvg-country="FR" group-title="Généraliste" tvg-language="FR" tvg-name="France 2",France 2
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/res/france2-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="3" tvg-id="France3.fr" epg-s="80" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="FRANCE" tvg-name="France 3",France 3
+#EXTINF:-1 tvg-chno="3" tvg-id="France3.fr" epg-s="80" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="Généraliste" tvg-name="France 3",France 3
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/res/france3-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="4" tvg-id="France4.fr" epg-s="78" tvg-logo="https://i.imgur.com/9GibmAI.png" tvg-country="FR" group-title="FRANCE" tvg-language="FR" tvg-name="France 4",France 4
+#EXTINF:-1 tvg-chno="4" tvg-id="France4.fr" epg-s="78" tvg-logo="https://i.imgur.com/9GibmAI.png" tvg-country="FR" group-title="Généraliste" tvg-language="FR" tvg-name="France 4",France 4
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-4-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="5" tvg-id="France5.fr" epg-s="47" tvg-logo="https://i.imgur.com/h0TcqHE.png" tvg-country="FR" group-title="FRANCE" tvg-language="FR" tvg-name="France 5",France 5
+#EXTINF:-1 tvg-chno="5" tvg-id="France5.fr" epg-s="47" tvg-logo="https://i.imgur.com/h0TcqHE.png" tvg-country="FR" group-title="Généraliste" tvg-language="FR" tvg-name="France 5",France 5
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/res/france5-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="7" tvg-id="Arte.fr" epg-s="111" tvg-logo="https://i.imgur.com/GqWBPJY.png" tvg-country="FR" group-title="FRANCE" tvg-language="FR" tvg-name="Arte",Arte
+#EXTINF:-1 tvg-chno="7" tvg-id="Arte.fr" epg-s="111" tvg-logo="https://i.imgur.com/GqWBPJY.png" tvg-country="FR" group-title="Généraliste" tvg-language="FR" tvg-name="Arte",Arte
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/arte-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="8" tvg-id="LaChaineParlementaire.fr" epg-s="234" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LCP100x100.png?h=100" tvg-country="FR" group-title="FRANCE" tvg-language="FR" tvg-name="LCP",LCP
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/lcp-public-senat-highest.m3u8
-#EXTINF:-1 tvg-chno="10" tvg-id="TMC.fr" epg-s="195" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100" tvg-country="FR" group-title="FRANCE" tvg-language="FR" tvg-name="TMC",TMC
+#EXTINF:-1 tvg-chno="10" tvg-id="TMC.fr" epg-s="195" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100" tvg-country="FR" group-title="Généraliste" tvg-language="FR" tvg-name="TMC",TMC
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/dkP7tZf8xe4S/res/V9T4mwzGJX8f3j-highest.m3u8
-#EXTINF:-1 tvg-chno="11" tvg-id="NT1.fr" epg-s="446" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100" tvg-country="FR" group-title="FRANCE" tvg-language="FR" tvg-name="TFX",TFX
+#EXTINF:-1 tvg-chno="11" tvg-id="NT1.fr" epg-s="446" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100" tvg-country="FR" group-title="Généraliste" tvg-language="FR" tvg-name="TFX",TFX
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/dkP7tZf8xe4S/res/JmmZRcsaAqvASiJX-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="12" tvg-id="Gulli.fr" epg-s="482" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/GULLI100x100.png?h=100" tvg-country="FR" group-title="FRANCE" tvg-language="FR" tvg-name="Gulli",Gulli
