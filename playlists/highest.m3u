@@ -43,21 +43,21 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/csta
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/res/t18-dm-highest.m3u8
 #EXTINF:-1 tvg-chno="19" tvg-id="NOVO19.fr" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-2-e9fde7-2f16e5-0@3x.png" tvg-country="FR" group-title="FRANCE" tvg-language="FR" tvg-name="NOVO19",NOVO19
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/dkP7tZf8xe4S/res/A1kQm94jOZmoE4X-highest.m3u8
-#EXTINF:-1 tvg-chno="20" tvg-id="TF1SeriesFilms.fr" epg-s="1404" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100" tvg-country="FR" group-title="FRANCE" tvg-language="FR" tvg-name="TF1 Séries-Films",TF1 Séries-Films
+#EXTINF:-1 tvg-chno="20" tvg-id="TF1SeriesFilms.fr" epg-s="1404" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100" tvg-country="FR" group-title="Cinéma" tvg-language="FR" tvg-name="TF1 Séries-Films",TF1 Séries-Films
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/dkP7tZf8xe4S/res/rasC5UWw1F4jzjhr-highest.m3u8
-#EXTINF:-1 tvg-chno="21" tvg-id="LEquipe21.fr" epg-s="1401" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" tvg-country="FR" group-title="FRANCE" tvg-language="FR" tvg-name="La chaine l’Équipe",La chaine l’Équipe
+#EXTINF:-1 tvg-chno="21" tvg-id="LEquipe21.fr" epg-s="1401" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" tvg-country="FR" group-title="Sport" tvg-language="FR" tvg-name="La chaine l’Équipe",La chaine l’Équipe
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/res/la-chaine-l-equipe-en-direct-dm-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="32" tvg-id="Canal32.fr" epg-s="534" tvg-logo="https://zupimages.net/up/26/11/8c0t.jpeg" tvg-country="FR" group-title="FRANCE" tvg-language="FR" tvg-name="Canal 32",Canal 32
 https://canal32-lineaire.b-cdn.net/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="33" tvg-id="SportEnFrance.fr" dm-id="x8sayn8" tvg-logo="https://s1.dmcdn.net/u/8Dz9c1exwxFnyVPBm/60x60" tvg-country="FR" group-title="FRANCE" tvg-language="FR" tvg-name="Sport en France",Sport en France
+#EXTINF:-1 tvg-chno="33" tvg-id="SportEnFrance.fr" dm-id="x8sayn8" tvg-logo="https://s1.dmcdn.net/u/8Dz9c1exwxFnyVPBm/60x60" tvg-country="FR" group-title="Sport" tvg-language="FR" tvg-name="Sport en France",Sport en France
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/res/sport-en-france-dm-highest.m3u8
 #EXTINF:-1 tvg-chno="34" tvg-id="ViaGrandParis.fr" epg-s="3768" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100" tvg-country="FR" group-title="Information & Politique" tvg-language="FR" tvg-name="Le Figaro TV",Le Figaro TV
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/figaro/res/tv-highest.m3u8
 #EXTINF:-1 tvg-chno="43" tvg-id="LaChaineParlementaire.fr" dm-id="xkxbzc" epg-s="2013" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/publicsenat-100x100.png?h=100" tvg-country="FR" group-title="Information & Politique" tvg-language="FR" tvg-name="LCP",LCP
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/res/publicsenat-dm-highest.m3u8
-#EXTINF:-1 tvg-chno="44" tvg-id="LEquipe21.fr" epg-s="1401" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" tvg-country="FR" group-title="FRANCE" tvg-language="FR" tvg-name="La chaine l’Équipe",La chaine l’Équipe
+#EXTINF:-1 tvg-chno="44" tvg-id="LEquipe21.fr" epg-s="1401" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" tvg-country="FR" group-title="Sport" tvg-language="FR" tvg-name="La chaine l’Équipe",La chaine l’Équipe
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/dkP7tZf8xe4S/res/axpyRWePYFevBT-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="45" tvg-id="CNews.fr" dm-id="x3b68jn" epg-s="226" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100" tvg-country="FR" group-title="Information & Politique" tvg-language="FR" tvg-name="CNews",CNews
@@ -72,7 +72,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/d
 #EXTINF:-1 tvg-chno="116" tvg-logo="https://i.imgur.com/ESz1gbr.png" tvg-country="FR" group-title="FRANCE.TV" tvg-id="FranceTVSeries.fr" tvg-name="France TV Séries",France TV Séries
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/serie-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="117" tvg-logo="https://i.imgur.com/IeiMuGI.png" tvg-country="FR" group-title="FRANCE.TV",FRANCE TV SPORT
+#EXTINF:-1 tvg-chno="117" tvg-logo="https://i.imgur.com/IeiMuGI.png" tvg-country="FR" group-title="Sport",FRANCE TV SPORT
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/sport-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="119" tvg-id="France24.fr" tvg-logo="https://i.imgur.com/yAiTedt.png" tvg-country="FR" group-title="Information & Politique" tvg-name="France 24",France 24
@@ -173,5 +173,5 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="151" tvg-logo="https://i.imgur.com/M4mQ8iG.png" tvg-country="FR" group-title="FRANCE.TV" tvg-id="NouvelleCaledonie.fr",NOUVELLE-CALÉDONIE 1ÈRE
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/nouvelle-caledonie-1ere-highest.m3u8
-#EXTINF:-1 tvg-chno="210" tvg-logo="https://photos.tf1.fr/0/40/vignette-logo-chaine-2e0861-7dfdee-0@3x.png" tvg-country="FR" group-title="TF1PLUS",RED BULL TV
+#EXTINF:-1 tvg-chno="210" tvg-logo="https://photos.tf1.fr/0/40/vignette-logo-chaine-2e0861-7dfdee-0@3x.png" tvg-country="FR" group-title="Sport",RED BULL TV
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/dkP7tZf8xe4S/res/6Gm09W5tW80Bd3xR-highest.m3u8
