@@ -144,7 +144,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/f
 #EXTINF:-1 tvg-chno="141" tvg-logo="https://i.imgur.com/SdwDJct.png" tvg-country="FR" group-title="FRANCE.TV" tvg-id="France3MidiPyrenees.fr" tvg-name="France 3 - Midi-Pyrénées",France 3 - Midi-Pyrénées
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-midi-pyrenees-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-chno="142" tvg-logo="https://i.imgur.com/SdwDJct.png" tvg-country="FR" group-title="FRANCE.TV",NOA
+#EXTINF:-1 tvg-chno="142" tvg-logo="https://i.imgur.com/SdwDJct.png" tvg-country="FR" group-title="FRANCE.TV" tvg-id="France3NouvelleAquitaine.fr" tvg-name="France 3 Nouvelle Aquitaine",France 3 Nouvelle Aquitaine
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-noa-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="143" tvg-logo="https://i.imgur.com/SdwDJct.png" tvg-country="FR" group-title="FRANCE.TV" tvg-id="France3NordPasDeCalais.fr" tvg-name="France 3 - Nord Pas-de-Calais",France 3 - Nord Pas-de-Calais
