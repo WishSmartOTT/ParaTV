@@ -25,17 +25,16 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="8" tvg-id="LaChaineParlementaire.fr" epg-s="234" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LCP100x100.png?h=100" tvg-country="FR" group-title="Information & Politique" tvg-language="FR" tvg-name="LCP",LCP
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/lcp-public-senat-highest.m3u8
-#EXTINF:-1 tvg-name="W9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/W9_2018.svg/60px-W9_2018.svg.png" tvg-id="W9.fr" tvg-chno="9" tvg-country="FR" group-title="France",W9
-http://145.239.5.177/331a/index.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-id="TMC.fr" epg-s="195" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100" tvg-country="FR" group-title="Généraliste" tvg-language="FR" tvg-name="TMC",TMC
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t9AIhJrLqj10/res/9q4r7Z7EWgii-highest.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-id="NT1.fr" epg-s="446" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100" tvg-country="FR" group-title="Généraliste" tvg-language="FR" tvg-name="TFX",TFX
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t9AIhJrLqj10/res/J70HXCIQXrhuGMp-highest.m3u8
-#EXTINF:-1 tvg-name="TFX" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/500px-TFX_logo_2018.svg.png" tvg-id="TFX.fr" tvg-chno="11" tvg-country="FR" group-title="France",TFX
-http://145.239.5.177/315/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="12" tvg-id="Gulli.fr" epg-s="482" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/GULLI100x100.png?h=100" tvg-country="FR" group-title="Jeunesse & Famille" tvg-language="FR" tvg-name="Gulli",Gulli
 https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_q2hyb21h/hls-short-sd.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="14" tvg-id="CNews.fr" epg-s="226" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100" tvg-country="FR" group-title="Information & Politique" tvg-language="FR" tvg-name="CNews",CNews
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/cnews-clair-hd-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="139" tvg-logo="https://i.imgur.com/SdwDJct.png" tvg-country="FR" group-title="Régional" tvg-id="France3Limousin.fr" tvg-name="France 3 - Limousin",France 3 - Limousin
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-3-limousin-highest.m3u8
