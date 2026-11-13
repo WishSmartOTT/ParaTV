@@ -1,8 +1,8 @@
 #EXTM3U
-# Generated on: 13/11/2026 10:24:39 CET+0100
+# Generated on: 13/11/2026 13:24:39 CET+0100
 #FRANCE (36)
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" epg-s="192" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" tvg-country="FR" group-title="Généraliste" tvg-language="FR" tvg-name="TF1",TF1
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/fziUql1CqZbB/res/p0oY8sQjigUsHiQ-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/QDY3hchMAQGL/res/VWrmmuQCWxTP54-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="2" tvg-id="France2.fr" epg-s="4" tvg-logo="https://i.imgur.com/EbEL7U8.png" tvg-country="FR" group-title="Généraliste" tvg-language="FR" tvg-name="France 2",France 2
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/res/france2-highest.m3u8
@@ -28,9 +28,9 @@ https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-id="LaChaineParlementaire.fr" epg-s="234" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LCP100x100.png?h=100" tvg-country="FR" group-title="Information & Politique" tvg-language="FR" tvg-name="LCP",LCP
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/lcp-public-senat-highest.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-id="TMC.fr" epg-s="195" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100" tvg-country="FR" group-title="Généraliste" tvg-language="FR" tvg-name="TMC",TMC
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/fziUql1CqZbB/res/1lysmIGo97XGnV6p-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/QDY3hchMAQGL/res/jM1WPUjFo4Kg9Bh-highest.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-id="NT1.fr" epg-s="446" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100" tvg-country="FR" group-title="Généraliste" tvg-language="FR" tvg-name="TFX",TFX
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/fziUql1CqZbB/res/3XsgrWFoxYveneH2-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/QDY3hchMAQGL/res/l2F0RY41NfpGUIU9-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="12" tvg-id="Gulli.fr" epg-s="482" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/GULLI100x100.png?h=100" tvg-country="FR" group-title="Jeunesse & Famille" tvg-language="FR" tvg-name="Gulli",Gulli
 https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_q2hyb21h/hls-short-sd.m3u8
@@ -38,16 +38,16 @@ https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_q2hyb21h/hls-s
 #EXTINF:-1 tvg-chno="14" tvg-id="CNews.fr" epg-s="226" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100" tvg-country="FR" group-title="Information & Politique" tvg-language="FR" tvg-name="CNews",CNews
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/cnews-clair-hd-highest.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-id="LCI.fr" epg-s="112" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/LCI_color.png?h=100" tvg-country="FR" group-title="Information & Politique" tvg-language="FR" tvg-name="LCI",LCI
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/fziUql1CqZbB/res/j38j1jVR0U2IsORx-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/QDY3hchMAQGL/res/86DtMdZMx7bVeP1H-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="16" tvg-id="FranceInfo.fr" epg-s="2111" tvg-logo="https://i.imgur.com/hwaz7xG.png" tvg-country="FR" group-title="Information & Politique" tvg-language="FR" tvg-name="franceinfo:",franceinfo
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/franceinfo-highest.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-id="T18.fr" dm-id="x9jhhyc" epg-s="4139" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/T18100x100.png?h=100" tvg-country="FR" group-title="FRANCE" tvg-language="FR" tvg-name="T18",T18
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/res/t18-dm-highest.m3u8
 #EXTINF:-1 tvg-chno="19" tvg-id="NOVO19.fr" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-2-e9fde7-2f16e5-0@3x.png" tvg-country="FR" group-title="FRANCE" tvg-language="FR" tvg-name="NOVO19",NOVO19
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/fziUql1CqZbB/res/q75fr66vD1mX8BT-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/QDY3hchMAQGL/res/7iXabRjBzeBX8mkE-highest.m3u8
 #EXTINF:-1 tvg-chno="20" tvg-id="TF1SeriesFilms.fr" epg-s="1404" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100" tvg-country="FR" group-title="Culture & Documentaires" tvg-language="FR" tvg-name="TF1 Séries-Films",TF1 Séries-Films
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/fziUql1CqZbB/res/KQKjxpMZ6MjFPut-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/QDY3hchMAQGL/res/HoFU5sF5rdIdVUiS-highest.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-id="LEquipe21.fr" epg-s="1401" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" tvg-country="FR" group-title="Sport" tvg-language="FR" tvg-name="La chaine l’Équipe",La chaine l’Équipe
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/res/la-chaine-l-equipe-en-direct-dm-highest.m3u8
 #EXTINF:-1 tvg-name="TV5 Monde Info" tvg-logo="https://i.imgur.com/NcysrWH.png" tvg-id="TV5MondeInfo.fr" tvg-chno="29" tvg-country="FR" group-title="France",TV5 Monde Info
@@ -65,7 +65,7 @@ https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:-1 tvg-chno="43" tvg-id="LaChaineParlementaire.fr" dm-id="xkxbzc" epg-s="2013" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/publicsenat-100x100.png?h=100" tvg-country="FR" group-title="Information & Politique" tvg-language="FR" tvg-name="LCP",LCP
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/res/publicsenat-dm-highest.m3u8
 #EXTINF:-1 tvg-chno="44" tvg-id="LEquipe21.fr" epg-s="1401" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" tvg-country="FR" group-title="Sport" tvg-language="FR" tvg-name="La chaine l’Équipe",La chaine l’Équipe
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/fziUql1CqZbB/res/l7KlWMcqaAuO3KKH-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/QDY3hchMAQGL/res/dMgjIjmNYrXTW2-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="45" tvg-id="CNews.fr" dm-id="x3b68jn" epg-s="226" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100" tvg-country="FR" group-title="Information & Politique" tvg-language="FR" tvg-name="CNews",CNews
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/cnews-dm-highest.m3u8
@@ -184,7 +184,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/n
 #EXTINF:-1 tvg-chno="152" tvg-logo="https://i.imgur.com/M4mQ8iG.png" tvg-country="FR" group-title="FRANCE.TV",RÉUNION 1ÈRE
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/reunion-1ere-highest.m3u8
 #EXTINF:-1 tvg-chno="210" tvg-logo="https://photos.tf1.fr/0/40/vignette-logo-chaine-2e0861-7dfdee-0@3x.png" tvg-country="FR" group-title="Sport",RED BULL TV
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/fziUql1CqZbB/res/zPsKyBDKpc2xKE85-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/QDY3hchMAQGL/res/5aPfhMJYhwEjG2ak-highest.m3u8
 #EXTINF:-1 tvg-name="TV Mulhouse" tvg-logo="https://i.imgur.com/4esQG8H.png" tvg-id="TVMulhouse.fr" tvg-chno="-" tvg-country="FR" group-title="France",TV Mulhouse
 http://194.163.157.137:8080/hls/radiomulhouse.m3u8
 #EXTINF:-1 tvg-name="TV Alsace" tvg-logo="https://i.imgur.com/zaJDEOv.png" tvg-id="TVAlsace.fr" tvg-chno="-" tvg-country="FR" group-title="France",TV Alsace
