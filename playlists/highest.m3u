@@ -9,8 +9,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="3" tvg-id="France3.fr" epg-s="80" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-country="FR" group-title="Généraliste" tvg-name="France 3",France 3
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/res/france3-highest.m3u8
-#EXTINF:-1 tvg-name="France 3" tvg-logo="https://i.imgur.com/PWbIICf.png" tvg-id="France3.fr" tvg-chno="3" tvg-country="FR" group-title="Généraliste",France 3
-http://89.187.185.76:8080/France3/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="4" tvg-id="France4.fr" epg-s="78" tvg-logo="https://i.imgur.com/9GibmAI.png" tvg-country="FR" group-title="Généraliste" tvg-language="FR" tvg-name="France 4",France 4
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-4-highest.m3u8
@@ -22,8 +20,6 @@ http://99.27.51.147:8080/M6/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="7" tvg-id="Arte.fr" epg-s="111" tvg-logo="https://i.imgur.com/GqWBPJY.png" tvg-country="FR" group-title="Généraliste" tvg-language="FR" tvg-name="Arte",Arte
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/arte-highest.m3u8
-#EXTINF:-1 tvg-name="Arte" tvg-logo="https://api-cdn.arte.tv/img/v2/image/j4EoSJjX26uySVWdmt3EmS/1920x1080" tvg-id="Arte...fr" tvg-chno="7" tvg-country="FR" group-title="France",Arte Ⓖ
-https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="8" tvg-id="LaChaineParlementaire.fr" epg-s="234" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LCP100x100.png?h=100" tvg-country="FR" group-title="Information & Politique" tvg-language="FR" tvg-name="LCP",LCP
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/lcp-public-senat-highest.m3u8
