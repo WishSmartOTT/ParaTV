@@ -41,8 +41,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/IliqjcwZFqK/re
 #EXTINF:-1 tvg-chno="12" tvg-id="Gulli.fr" epg-s="482" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/GULLI100x100.png?h=100" tvg-country="FR" group-title="Jeunesse & Famille" tvg-language="FR" tvg-name="Gulli" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",Gulli
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_q2hyb21h/hls-short-sd.m3u8
-#EXTINF:-1 tvg-name="LCP" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6a/Logo_LCP-AN_-_Public_S%C3%A9nat_%282019%29.svg/60px-Logo_LCP-AN_-_Public_S%C3%A9nat_%282019%29.svg.png" tvg-id="LCP.fr" tvg-chno="13" tvg-country="FR" group-title="France",LCP
-https://lcp.fr/le-live-lcp-tnt-5433
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="14" tvg-id="CNews.fr" epg-s="226" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100" tvg-country="FR" group-title="Information & Politique" tvg-language="FR" tvg-name="CNews" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",CNews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -80,9 +78,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/mis
 #EXTINF:-1 tvg-chno="34" tvg-id="ViaGrandParis.fr" epg-s="3768" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100" tvg-country="FR" group-title="Information & Politique" tvg-language="FR" tvg-name="Le Figaro TV" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",Le Figaro TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/figaro/res/tv-highest.m3u8
-#EXTINF:-1 tvg-name="CGTN Français" tvg-logo="https://i.imgur.com/fMsJYzl.png" tvg-id="CGTN-Français.fr" tvg-chno="34" tvg-country="FR" group-title="France" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",CGTN Français
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:-1 tvg-chno="43" tvg-id="LaChaineParlementaire.fr" dm-id="xkxbzc" epg-s="2013" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/publicsenat-100x100.png?h=100" tvg-country="FR" group-title="Information & Politique" tvg-language="FR" tvg-name="LCP" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",LCP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/res/publicsenat-dm-highest.m3u8
@@ -436,6 +431,18 @@ https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_500.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=96
 #EXTINF:-1 tvg-id="France24.fr@English",France 24 English
 http://170.83.16.50/FRANCE_24/index.m3u8
+#EXTINF:-1 tvg-id="France24.fr@English",France 24 English
+https://mumbai-edge.smartplaytv.in/france24/index.m3u8
+#EXTINF:-1 tvg-id="France24.fr@English",France 24 English (576p)
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_900.m3u8
+#EXTINF:-1 tvg-id="France24.fr@English",France 24 English (576p)
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_900.m3u8
+#EXTINF:-1 tvg-id="France24.fr@English",France 24 English (360p)
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_500.m3u8
+#EXTINF:-1 tvg-id="France24.fr@English",France 24 English (360p)
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_500.m3u8
+#EXTINF:-1 tvg-id="France24.fr@EnglishHD",France 24 English
+http://nmk.ioapk.com:5050/4gtv-live146/index.m3u8
 #EXTINF:-1 tvg-id="France24.fr@Spanish",France 24 Español (576p)
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_900.m3u8
 #EXTINF:-1 tvg-id="France24.fr@Spanish",France 24 Español (576p)
@@ -444,8 +451,6 @@ https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_900.m3u8
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_500.m3u8
 #EXTINF:-1 tvg-id="France24.fr@Spanish",France 24 Español (360p)
 https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_500.m3u8
-#EXTINF:-1 tvg-id="France24.fr@French",France 24 French
-https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_2300.m3u8
 #EXTINF:-1 tvg-id="France24.fr@French",France 24 French (576p)
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_900.m3u8
 #EXTINF:-1 tvg-id="France24.fr@French",France 24 French (576p)
@@ -485,8 +490,6 @@ http://99.27.51.147:8080/M6/index.m3u8
 http://185.228.163.146:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="MDL.fr@SD",MDL
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MezzoLive.fr@SD",Mezzo
-http://stream.mcquack.net/276/index.m3u8
 #EXTINF:-1 tvg-id="MezzoLive.fr@SD" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",Mezzo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://45.84.187.172:3001/udp/239.10.10.76:5000
