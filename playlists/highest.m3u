@@ -1,8 +1,8 @@
 #EXTM3U
-# Generated on: 14/11/2026 01:24:39 CET+0100
+# Generated on: 14/11/2026 04:24:36 CET+0100
 #FRANCE (36)
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" epg-s="192" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" tvg-country="FR" group-title="Généraliste" tvg-language="FR" tvg-name="TF1",TF1
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/6iJ82bJRe7A8/res/Z2tLiApmTRxn8dp-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lbTkTTxx5Fsy/res/20I3D1lYJCVnE0Di-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="2" tvg-id="France2.fr" epg-s="4" tvg-logo="https://i.imgur.com/EbEL7U8.png" tvg-country="FR" group-title="Généraliste" tvg-language="FR" tvg-name="France 2",France 2
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/res/france2-highest.m3u8
@@ -26,9 +26,9 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/a
 #EXTINF:-1 tvg-chno="8" tvg-id="LaChaineParlementaire.fr" epg-s="234" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LCP100x100.png?h=100" tvg-country="FR" group-title="Information & Politique" tvg-language="FR" tvg-name="LCP",LCP
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/lcp-public-senat-highest.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-id="TMC.fr" epg-s="195" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100" tvg-country="FR" group-title="Généraliste" tvg-language="FR" tvg-name="TMC",TMC
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/6iJ82bJRe7A8/res/HenzcCpUYZQtR0v-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lbTkTTxx5Fsy/res/cfN2VvvvU9akBcoE-highest.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-id="NT1.fr" epg-s="446" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100" tvg-country="FR" group-title="Généraliste" tvg-language="FR" tvg-name="TFX",TFX
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/6iJ82bJRe7A8/res/P7qFrkvtGyDCeU1h-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lbTkTTxx5Fsy/res/9c7u67btXBPeDAR4-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="12" tvg-id="Gulli.fr" epg-s="482" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/GULLI100x100.png?h=100" tvg-country="FR" group-title="Jeunesse & Famille" tvg-language="FR" tvg-name="Gulli",Gulli
 https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_q2hyb21h/hls-short-sd.m3u8
@@ -78,7 +78,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/n
 #EXTINF:-1 tvg-chno="152" tvg-logo="https://i.imgur.com/M4mQ8iG.png" tvg-country="FR" group-title="FRANCE.TV",MARTINIQUE 1ÈRE
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/martinique-1ere-highest.m3u8
 #EXTINF:-1 tvg-chno="210" tvg-logo="https://photos.tf1.fr/0/40/vignette-logo-chaine-2e0861-7dfdee-0@3x.png" tvg-country="FR" group-title="Sport",RED BULL TV
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/6iJ82bJRe7A8/res/3MNUmVqtwLV9DCd2-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lbTkTTxx5Fsy/res/nZySMz2sRI99OyZw-highest.m3u8
 #EXTINF:-1 tvg-name="TV Mulhouse" tvg-logo="https://i.imgur.com/4esQG8H.png" tvg-id="TVMulhouse.fr" tvg-chno="-" tvg-country="FR" group-title="France",TV Mulhouse
 http://194.163.157.137:8080/hls/radiomulhouse.m3u8
 #EXTINF:-1 tvg-name="TV Alsace" tvg-logo="https://i.imgur.com/zaJDEOv.png" tvg-id="TVAlsace.fr" tvg-chno="-" tvg-country="FR" group-title="France",TV Alsace
