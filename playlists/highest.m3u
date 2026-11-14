@@ -171,16 +171,10 @@ https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3
 http://85.14.32.26:8800/udp/239.100.10.144:5000
 #EXTINF:-1 tvg-id="France3.fr@CotedAzur",France 3 Cote d'Azur
 http://89.187.185.76:8080/France3/index.m3u8
-#EXTINF:-1 tvg-id="France4.fr@SD",France 4
-http://149.62.177.107:9999/France_4/index.m3u8
-#EXTINF:-1 tvg-id="France5.fr@SD",France 5
-http://149.62.177.107:9999/France_5/index.m3u8
 #EXTINF:-1 tvg-id="France24.fr@French",France 24
 https://freem3u.xyz/api/live/play.m3u8?vid=10007
 #EXTINF:-1 tvg-id="France24.fr@French",France 24 French
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_2300.m3u8
-#EXTINF:-1 tvg-id="Franceinfo.fr@SD",Franceinfo
-http://149.62.177.107:9999/franceinfo:/index.m3u8
 #EXTINF:-1 tvg-id="GenerationsTV.fr@SD",Generations TV (576p)
 https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:-1 tvg-id="GolfPlus.fr@SD",Golf + [Geo-blocked]
@@ -197,8 +191,6 @@ https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LEquipe.fr@SD" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",L'Equipe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
-#EXTINF:-1 tvg-id="LCI.fr@SD",LCI
-http://149.62.177.107:9999/LCI/index.m3u8
 #EXTINF:-1 tvg-id="LCP.fr@SD",LCP (477p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
 #EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr@SD",Le Figaro IDF
