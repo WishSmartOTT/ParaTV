@@ -118,8 +118,6 @@ https://srv.webtvmanager.fr:3697/stream/play.m3u8
 #EXTINF:-1 tvg-name="Air Connect TV" tvg-logo="onnectTV.f" tvg-chno="-" tvg-country="FR" group-title="France" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",Air Connect TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 https://tv.airconnectradio.com/live.m3u8
-#EXTINF:-1 tvg-id="6ter.fr@SD",6ter
-http://149.62.177.107:9999/6ter/index.m3u8
 #EXTINF:-1 tvg-id="20MinutesTV.fr@SD",20 Minutes TV
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 #EXTINF:-1 tvg-id="ADNTVPlus.fr@SD",ADN TV+
