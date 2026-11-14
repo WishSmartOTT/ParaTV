@@ -275,20 +275,12 @@ https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8
 https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAfrica.fr@SD",TV5Monde Africa
 http://5.9.121.178/tv5monde/index.m3u8
-#EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD",TV5Monde Asia
-https://freem3u.xyz/api/live/play.m3u8?vid=9852
-#EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD",TV5Monde Asia
-http://103.172.187.30:12000/stream/allchannel/tv5asie
-#EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD",TV5Monde Asia
-http://202.150.165.66:8088/play/304-TV5Monde/index.m3u8
 #EXTINF:-1 tvg-id="TV5MONDEChefs.fr@SD",TV5MONDE Chefs
 https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD",TV5Monde Europe
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr@SD",TV5Monde Info [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-#EXTINF:-1 tvg-id="TV5MondeLatinAmerica.fr@SD",TV5Monde Latin America
-http://45.162.231.38:7779/TV5_Monde/index.m3u8
 #EXTINF:-1 tvg-id="TV7Colmar.fr@SD",TV7 Colmar (576p)
 https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAlsace.fr@HD",TV Alsace
@@ -305,10 +297,6 @@ https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
 https://live.azenagroup.com/zenith/index.ll.m3u8
 #EXTINF:-1 tvg-id="zenith.fr@HD",zenith
 https://live.azenagroup.com/zenith/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.fr@Portugal",Eurosport 1 Portugal
-http://185.228.163.146:8000/play/a03z/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport2.fr@Portugal",Eurosport 2 Portugal
-http://185.228.163.146:8000/play/a048/index.m3u8
 #EXTINF:-1 tvg-id="MCMPop.fr@SD",MCM Pop
 http://176.65.153.78:8201/play/a070/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr@SD",TV5Monde Info
@@ -317,12 +305,6 @@ https://tvf-tvfm.otteravision.com/tvf/tvfm/tvfm_720.m3u8
 http://91.235.255.32:8001/1:0:1:2CA:14B4:13E:820000:0:0:0
 #EXTINF:-1 tvg-id="Eurosport4K.fr@Romania",Eurosport 4K Romania [Geo-blocked]
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.fr@Bulgaria",Eurosport 1 Bulgaria
-http://213.91.179.28:8000/play/a05y
-#EXTINF:-1 tvg-id="Eurosport2.fr@Bulgaria",Eurosport 2 Bulgaria
-http://213.91.179.28:8000/play/a04b
-#EXTINF:-1 tvg-id="Eurosport1.fr@Romania",Eurosport 1 Romania
-http://89.44.231.73:7000/eurosport
 #EXTINF:-1 tvg-id="DiscoveryChannel.fr@SD" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",Discovery Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://192.99.186.30/stream/68/index.m3u8
