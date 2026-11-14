@@ -1,9 +1,9 @@
 #EXTM3U
-# Generated on: 14/11/2026 07:24:38 CET+0100
+# Generated on: 14/11/2026 10:24:50 CET+0100
 #FRANCE (36)
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" epg-s="192" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" tvg-country="FR" group-title="Généraliste" tvg-language="FR" tvg-name="TF1" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",TF1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/IliqjcwZFqK/res/zNvoKtUOi5v7EsZM-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/pL0mshVyJQr/res/eGN2bKBhcBQSd8t-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="2" tvg-id="France2.fr" epg-s="4" tvg-logo="https://i.imgur.com/EbEL7U8.png" tvg-country="FR" group-title="Généraliste" tvg-language="FR" tvg-name="France 2" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",France 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -33,10 +33,10 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/a
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/lcp-public-senat-highest.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-id="TMC.fr" epg-s="195" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100" tvg-country="FR" group-title="Généraliste" tvg-language="FR" tvg-name="TMC" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",TMC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/IliqjcwZFqK/res/1NVadeAUFTFF84un-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/pL0mshVyJQr/res/E0MwUfgCMSQBjtQy-highest.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-id="NT1.fr" epg-s="446" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100" tvg-country="FR" group-title="Généraliste" tvg-language="FR" tvg-name="TFX" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",TFX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/IliqjcwZFqK/res/wRtbDfzPtYIiYYeF-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/pL0mshVyJQr/res/wvh8QktgZS3ZFeB-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="12" tvg-id="Gulli.fr" epg-s="482" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/GULLI100x100.png?h=100" tvg-country="FR" group-title="Jeunesse & Famille" tvg-language="FR" tvg-name="Gulli" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",Gulli
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -47,7 +47,7 @@ https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_q2hyb21h/hls-s
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/cnews-clair-hd-highest.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-id="LCI.fr" epg-s="112" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/LCI_color.png?h=100" tvg-country="FR" group-title="Information & Politique" tvg-language="FR" tvg-name="LCI" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",LCI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/IliqjcwZFqK/res/HbKwUVwyydjxVTFY-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/pL0mshVyJQr/res/W12qUchY3uOyPEty-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="16" tvg-id="FranceInfo.fr" epg-s="2111" tvg-logo="https://i.imgur.com/hwaz7xG.png" tvg-country="FR" group-title="Information & Politique" tvg-language="FR" tvg-name="franceinfo:" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",franceinfo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -57,10 +57,10 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/f
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/res/t18-dm-highest.m3u8
 #EXTINF:-1 tvg-chno="19" tvg-id="NOVO19.fr" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-2-e9fde7-2f16e5-0@3x.png" tvg-country="FR" group-title="FRANCE" tvg-language="FR" tvg-name="NOVO19" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",NOVO19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/IliqjcwZFqK/res/EObPGIW5jlN2NkW-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/pL0mshVyJQr/res/vvajxG6LBpO29kBz-highest.m3u8
 #EXTINF:-1 tvg-chno="20" tvg-id="TF1SeriesFilms.fr" epg-s="1404" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100" tvg-country="FR" group-title="Culture & Documentaires" tvg-language="FR" tvg-name="TF1 Séries-Films" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",TF1 Séries-Films
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/IliqjcwZFqK/res/Uere8q5BxvqT0yr3-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/pL0mshVyJQr/res/i0slXVMVr2Xr81An-highest.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-id="LEquipe21.fr" epg-s="1401" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" tvg-country="FR" group-title="Sport" tvg-language="FR" tvg-name="La chaine l’Équipe" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",La chaine l’Équipe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/res/la-chaine-l-equipe-en-direct-dm-highest.m3u8
@@ -83,7 +83,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/figaro/res/tv-
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/res/publicsenat-dm-highest.m3u8
 #EXTINF:-1 tvg-chno="44" tvg-id="LEquipe21.fr" epg-s="1401" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" tvg-country="FR" group-title="Sport" tvg-language="FR" tvg-name="La chaine l’Équipe" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",La chaine l’Équipe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/IliqjcwZFqK/res/vBu1PtjjYaAGlLw-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/pL0mshVyJQr/res/VGdw0vtqINV7GaFX-highest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="45" tvg-id="CNews.fr" dm-id="x3b68jn" epg-s="226" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100" tvg-country="FR" group-title="Information & Politique" tvg-language="FR" tvg-name="CNews" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",CNews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -258,7 +258,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/w
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/reunion-1ere-highest.m3u8
 #EXTINF:-1 tvg-chno="210" tvg-logo="https://photos.tf1.fr/0/40/vignette-logo-chaine-2e0861-7dfdee-0@3x.png" tvg-country="FR" group-title="Sport" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",RED BULL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/IliqjcwZFqK/res/mkhDYeoARViRL93-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/pL0mshVyJQr/res/l6txthSuG4FvKM-highest.m3u8
 #EXTINF:-1 tvg-chno="10000" tvg-id="Arte.fr" epg-s="111" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Arte_color.png?h=100" tvg-country="FR" group-title="FRANCE" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",Arte
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/arte/res/arte-highest.m3u8
@@ -268,7 +268,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/arte/res/arte-
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/res/canalplusclair-hd-highest.m3u8
 #EXTINF:-1 tvg-chno="10005" epg-s="111" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine_arte-5637da-a7b07d-0@3x.png" tvg-country="FR" group-title="FRANCE" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",ARTE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/B1rlGAp2QySo/res/t1lrFhXqahiyOjfH-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/pL0mshVyJQr/res/b3sqlyIlwRwBmhO-highest.m3u8
 #EXTINF:-1 tvg-chno="10006" tvg-id="France2.fr" epg-s="4" tvg-logo="https://i.imgur.com/EbEL7U8.png" tvg-country="FR" group-title="FRANCE" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",France 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-2-highest.m3u8
@@ -280,28 +280,28 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/f
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/res/france-5-highest.m3u8
 #EXTINF:-1 tvg-chno="10009" tvg-id="LaChaineParlementaire.fr" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-e8ce53-52275d-0@3x.png" tvg-country="FR" group-title="FRANCE" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",LCP - PUBLIC SÉNAT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/B1rlGAp2QySo/res/1XPUmhrCoWWJpi7-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/pL0mshVyJQr/res/SjexXSYMcVSpbKo-highest.m3u8
 #EXTINF:-1 tvg-chno="10010" tvg-id="ViaGrandParis.fr" epg-s="3768" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100" tvg-country="FR" group-title="FRANCE" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",LE FIGARO TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rqn0wfZvuM0/res/OhoYXJFg6uCmCp4-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/pL0mshVyJQr/res/mmomL8YHSxJu3G-highest.m3u8
 #EXTINF:-1 tvg-chno="10013" tvg-logo="https://photos.tf1.fr/0/40/logo-tfx-2020-min-2ac5f0-2f567e-0@3x.png" tvg-country="FR" group-title="TF1PLUS" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",TFX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/4n2S6IPRd9Aw/res/IHdJer9ZeDhxirC2-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/pL0mshVyJQr/res/wvh8QktgZS3ZFeB-highest.m3u8
 #EXTINF:-1 tvg-chno="10014" tvg-logo="https://photos.tf1.fr/0/40/logo-tf1sf-2020-min-4957cb-3dbe13-0@3x.png" tvg-country="FR" group-title="TF1PLUS" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",TF1 SÉRIES FILMS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/4n2S6IPRd9Aw/res/B4hnJ2nxpm6fe2ba-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/pL0mshVyJQr/res/i0slXVMVr2Xr81An-highest.m3u8
 #EXTINF:-1 tvg-chno="10015" tvg-logo="https://photos.tf1.fr/0/40/logo-lci-2020-min-a0978b-a422bb-0@3x.png" tvg-country="FR" group-title="TF1PLUS" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",LCI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/4n2S6IPRd9Aw/res/d43TybM1PSUrLG-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/pL0mshVyJQr/res/W12qUchY3uOyPEty-highest.m3u8
 #EXTINF:-1 tvg-chno="10016" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-lequipe-1-3a8544-a40f82-0@3x.png" tvg-country="FR" group-title="TF1PLUS" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",LA CHAÎNE L'EQUIPE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/4n2S6IPRd9Aw/res/dft81OULcaRs3xbm-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/pL0mshVyJQr/res/VGdw0vtqINV7GaFX-highest.m3u8
 #EXTINF:-1 tvg-chno="10017" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-5ed4ef-d51e3f-0@3x.png" tvg-country="FR" group-title="TF1PLUS" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",LE FIGARO TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/4n2S6IPRd9Aw/res/F605Ri5xepFhU4HH-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/pL0mshVyJQr/res/mmomL8YHSxJu3G-highest.m3u8
 #EXTINF:-1 tvg-chno="10020" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-2-e9fde7-2f16e5-0@3x.png" tvg-country="FR" group-title="TF1PLUS" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",NOVO19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/4n2S6IPRd9Aw/res/RC53K53CxKX5ptyO-highest.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/pL0mshVyJQr/res/vvajxG6LBpO29kBz-highest.m3u8
 #EXTINF:-1 tvg-name="TV Mulhouse" tvg-logo="https://i.imgur.com/4esQG8H.png" tvg-id="TVMulhouse.fr" tvg-chno="-" tvg-country="FR" group-title="France" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",TV Mulhouse
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://194.163.157.137:8080/hls/radiomulhouse.m3u8
